@@ -1,0 +1,8 @@
+name = "discordimg"
+type = "webpack"
+account_id = "c13ed8597d0a3ce58760dd7eff23d531"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+usage_model = ""
